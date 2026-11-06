@@ -1,0 +1,82 @@
+<?php
+
+/**
+ * CiSkeleton Language Metadata - Estonian
+ *
+ * @package     CiSkeleton\Core
+ * @subpackage  Language
+ * @category    Metadata
+ *
+ * @author      Kader Bouyakoub <bkader[at]mail[dot]com>
+ * @copyright   2018-present, Kader Bouyakoub
+ * @license     MIT
+ * @link        https://opensource.org/license/mit
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+return [
+	'name'       => 'Eesti',
+	'name_en'    => 'Estonian',
+	'locale'     => 'et_EE',
+	'tag'        => 'et-EE',
+	'direction'  => 'ltr',
+	'code'       => 'et',
+	'flag'       => 'ee',
+	'version'    => '0.0.1',
+	'version_id' => 1,
+
+	// Localized language names.
+	'translations' => [
+		'arabic'      => 'Araabia',
+		'armenian'    => 'Armeenia',
+		'azerbaijani' => 'Aserbaidžaani',
+		'bengali'     => 'Bengali',
+		'brazilian'   => 'Portugali (Brasiilia)',
+		'bulgarian'   => 'Bulgaaria',
+		'catalan'     => 'Katalaani',
+		'chinese'     => 'Hiina (Lihtsustatud)',
+		'croatian'    => 'Horvaadi',
+		'czech'       => 'Tšehhi',
+		'danish'      => 'Taani',
+		'dutch'       => 'Hollandi',
+		'english'     => 'Inglise',
+		'estonian'    => 'Eesti',
+		'filipino'    => 'Filipiini',
+		'finnish'     => 'Soome',
+		'french'      => 'Prantsuse',
+		'georgian'    => 'Gruusia',
+		'german'      => 'Saksa',
+		'greek'       => 'Kreeka',
+		'hindi'       => 'Hindi',
+		'hungarian'   => 'Ungari',
+		'indonesian'  => 'Indoneesia',
+		'italian'     => 'Itaalia',
+		'japanese'    => 'Jaapani',
+		'khmer'       => 'Khmeeri',
+		'korean'      => 'Korea',
+		'latvian'     => 'Läti',
+		'lithuanian'  => 'Leedu',
+		'malay'       => 'Malai',
+		'marathi'     => 'Marathi',
+		'norwegian'   => 'Norra',
+		'persian'     => 'Pärsia',
+		'polish'      => 'Poola',
+		'portuguese'  => 'Portugali',
+		'romanian'    => 'Rumeenia',
+		'russian'     => 'Vene',
+		'serbian'     => 'Serbia',
+		'slovak'      => 'Slovaki',
+		'slovenian'   => 'Sloveeni',
+		'spanish'     => 'Hispaania',
+		'swahili'     => 'Suahiili',
+		'swedish'     => 'Rootsi',
+		'taiwanese'   => 'Hiina (Traditsiooniline)',
+		'tamil'       => 'Tamili',
+		'thai'        => 'Tai',
+		'turkish'     => 'Türgi',
+		'ukrainian'   => 'Ukraina',
+		'urdu'        => 'Urdu',
+		'vietnamese'  => 'Vietnami',
+	],
+];
